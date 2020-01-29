@@ -58,7 +58,7 @@ $thankYou="Your message has been sent.";
           <h5 class="header col s12">The point is to involve dance, dj, yoga and flower essences paired with chakra crystals to help evolve people into a better place.</h5>
         </div>
         <div class="row center">
-          <a href="#two" id="download-button" class="btn-large waves-effect waves-light wine">Get Started</a>
+          <a href="#two" id="download-button" class="btn-large waves-effect waves-light wine">Contact Us</a>
         </div>
         <br><br>
 
@@ -80,20 +80,20 @@ $thankYou="Your message has been sent.";
       </div>
       <!--   Icon Section   -->
       <div class="row">
-        <div class="col s12 center"><h4>Topics to define more are:</h4></div>
+        <div class="col s12 center"><h4>Some more information about the project:</h4></div>
         <div class="col s12 m6 l4">
           <div class="icon-block">
             <h2 class="center green-text"><i class="material-icons">change_history</i></h2>
-            <h5 class="center">Flower essences that pair with the Chakras</h5>
+            <h5 class="center indigo-text text-lighten-1">Flower essences that pair with the Chakras</h5>
 
-            <p>Deep knowledge and understanding of wine industry business dynamics, barriers, and opportunities. Experience in financial management and leadership positions, focusing financial information to help make better operating decisions.</p>
+            <p>Bach Flower Remedies work in harmony with herbs, homeopathy and medication. They are safe for everyone, including childen, pregnant women, pets, the elderly, and even plants.</p>
           </div>
         </div>
 
         <div class="col s12 m6 l4">
           <div class="icon-block">
             <h2 class="center purple-text"><i class="material-icons">spa</i></h2>
-            <h5 class="center">Chakras &amp; Crystals:</h5>
+            <h5 class="center green-text">Chakras &amp; Crystals:</h5>
               <p class="indigo-text text-lighten-1">Crown - Clear Quartz</p>
               <p class="purple-text">Third-Eye - Amethyst</p>
               <p class="blue-text">Throat - Lapis Lazuli</p>
@@ -106,18 +106,18 @@ $thankYou="Your message has been sent.";
 
         <div class="col s12 m6 l4">
           <div class="icon-block">
-            <h2 class="center yellow-text text-darken-3"><i class="material-icons">disc_full</i></h2>
-            <h5 class="center yellow-text text-darken-4">Music</h5>
+            <h2 class="center red-text text-darken-2"><i class="material-icons">disc_full</i></h2>
+            <h5 class="center yellow-text text-darken-3">Music</h5>
 
-            <p>Demonstrated results in setting and achieving objective client metrics, with the strongest commitment possible to client success.</p>
+            <p>We use sounds that are fun to dance and flow with. During yoga the vibe is calmer.</p>
           </div>
         </div>
         <div class="col s12 m6 l4">
           <div class="icon-block">
-            <h2 class="center blue-text"><i class="material-icons">whatshot</i></h2>
+            <h2 class="center orange-text text-darken-2"><i class="material-icons">whatshot</i></h2>
             <h5 class="center blue-text">Yoga</h5>
 
-            <p>Demonstrated results in setting and achieving objective client metrics, with the strongest commitment possible to client success.</p>
+            <p>Well versed yogis provide a practice that beginners to experts can enjoy. We like to utilize the outdoor grounding experience to our advantage to reconnect with the world around us.</p>
           </div>
         </div>
       </div>
