@@ -157,9 +157,9 @@ $thankYou="Your message has been sent.";
     </div>
     <div class="parallax"><img src="bridge-pixel.gif" alt="bridge garden"></div>
   </div>
-  <div class="row">
+  <div id="second" class="row">
     <div class="col s12">
-      <ul class="chakra-menu">
+      <ul id="show" class="chakra-menu">
         <li><a href="#crown" class="purple-text">sahasrara</a></li>
         <li><a href="#thirdeye" class="indigo-text">ajna</a></li>
         <li><a href="#throat" class="blue-text">visudha</a></li>
@@ -348,6 +348,15 @@ $thankYou="Your message has been sent.";
   <script>
     $(document).ready(function(){
       $('.scrollspy').scrollSpy();
+    });
+
+    var offsetTop = $("#second").offset().top;
+
+    $(window).scroll(function() {
+      var scrollTop = $(window).scrollTop();
+      if (scrollTop > offsetTop) {
+        $("#show").fadeIn(400);
+      }
     });
   </script>
   </body>

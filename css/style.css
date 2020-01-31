@@ -40,14 +40,15 @@ nav .brand-logo {
 
 ul.chakra-menu   {
   position:fixed;
-  top:10px;
-  left:6px;
+  top:0px;
+  left:15px;
 }
 ul.chakra-menu li a {
-  width: 64px;
-  height: 90px;
+  font-family: 'Fredoka One', cursive;
 }
-
+#show {
+  display: none;
+}
 p {
   line-height: 2rem;
 }
