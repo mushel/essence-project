@@ -38,6 +38,16 @@ nav .brand-logo {
   color: #444;
 }
 
+ul.chakra-menu   {
+  position:fixed;
+  top:10px;
+  left:6px;
+}
+ul.chakra-menu li a {
+  width: 64px;
+  height: 90px;
+}
+
 p {
   line-height: 2rem;
 }
@@ -56,12 +66,6 @@ p {
 .parallax-container .section {
   width: 100%;
 }
-.parallax-container h3 {
-  background: rgba(255, 255, 255, 0.65);
-  padding: 10px 10px 15px 10px;
-  text-shadow: none;
-  color: #7d7b4b !important;
-}
 .parallax-container .btn-large {
   text-shadow: none;
 }
@@ -72,7 +76,36 @@ p {
   margin-top: 2px;
   background-size: contain;
 }
-
+.sahasrara, .ajna, .visudha, .anahata, .manipura, .svadhistana, .muladhara {
+  background: url('../chakras.png') no-repeat;
+  width: 230px;
+  background-size: cover;
+  float: left;
+  background-position-x: -6px;
+  height: 215px;
+} 
+.sahasrara {
+  background-position-y: -15px;
+} 
+.ajna {
+  background-position-y: -298px;
+  height: 124px;
+} 
+.visudha {
+  background-position-y: -484px;
+}
+.anahata {
+  background-position-y: -727px;
+} 
+.manipura {
+  background-position-y: -978px;
+} 
+.svadhistana {
+  background-position-y: -1218px;
+} 
+.muladhara {
+  background-position-y: -1460px;
+}
 .btn:hover, .btn-large:hover, .btn-small:hover {
   background-color: #725481;
 }

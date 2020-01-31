@@ -26,7 +26,7 @@ $thankYou="Your message has been sent.";
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 
-  <link href="https://fonts.googleapis.com/css?family=Abel|Fredoka+One&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Abel|Fredoka+Project Infolay=swap" rel="stylesheet">
   
 
 </head>
@@ -35,15 +35,17 @@ $thankYou="Your message has been sent.";
     <div class="nav-wrapper container">
       <a id="logo-container" href="#" class="brand-logo">LOGO</a>
       <ul class="right hide-on-med-and-down">
-        <li><a href="#one">One Link</a></li>
-        <li><a href="#two">Two Link</a></li>
-        <li><a href="slider.html">Slider</a></li>
+        <li><a href="#one">Project Info</a></li>
+        <li><a href="#two">Flower Essences</a></li>
+        <li><a href="#three">7 Bach Flower Groups + Chakras</a></li>
+        <li><a href="#contact">Contact</a></li>
       </ul>
 
       <ul id="nav-mobile" class="sidenav">
-        <li><a href="#one">One Link</a></li>
-        <li><a href="#two">Two Link</a></li>
-        <li><a href="slider.html">Slider</a></li>
+        <li><a href="#one">Project Info</a></li>
+        <li><a href="#two">Flower Essences</a></li>
+        <li><a href="#three">7 Bach Flower Groups + Chakras</a></li>
+        <li><a href="#contact">Contact</a></li>
       </ul>
       <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
     </div>
@@ -55,10 +57,10 @@ $thankYou="Your message has been sent.";
         <br class="hide-on-med-and-down"><br>
         <h1 class="header center">The Essence Project</h1>
         <div class="row center">
-          <h5 class="header col s12">The point is to involve dance, dj, yoga and flower essences paired with chakra crystals to help evolve people into a better place.</h5>
+          <h5 class="header col s12">The point is to involve dance, dj, yoga and flower essences paired with chakra &amp; crystals to help evolve people into a better place.</h5>
         </div>
         <div class="row center">
-          <a href="#two" id="download-button" class="btn-large waves-effect waves-light wine">Contact Us</a>
+          <a href="#contact" id="download-button" class="btn-large waves-effect waves-light wine">Contact Us</a>
         </div>
         <br><br>
 
@@ -67,7 +69,7 @@ $thankYou="Your message has been sent.";
     <div class="parallax"><img src="https://flowersandflowerthings.com/wp-content/uploads/2019/08/Flower-Essences-1024x512.jpg" alt="Essence Project"></div>
   </div>
   <div class="container">
-    <div id="one" class="section">
+    <div id="one" class="section scrollspy">
       <div class="row">
         <div class="col offset-s2 s8">
           <p>This is normally a day party for a festival with a positive message. Think Lightning in a Bottle, High Sierra, Envision, and Sonic Bloom. It would last about 3 to 4 hours. I would be travelling with a yoga instructor or get paired with one at a festival. </p> 
@@ -94,8 +96,8 @@ $thankYou="Your message has been sent.";
           <div class="icon-block">
             <h2 class="center purple-text"><i class="material-icons">spa</i></h2>
             <h5 class="center green-text">Chakras &amp; Crystals:</h5>
-              <p class="indigo-text text-lighten-1">Crown - Clear Quartz</p>
-              <p class="purple-text">Third-Eye - Amethyst</p>
+              <p class="purple-text">Crown - Clear Quartz</p>
+              <p class="indigo-text text-lighten-1">Third-Eye - Amethyst</p>
               <p class="blue-text">Throat - Lapis Lazuli</p>
               <p class="green-text">Heart - Green Aventurine</p>
               <p class="yellow-text text-darken-3">Solar Plexus - Yellow Aventurine</p>
@@ -126,7 +128,7 @@ $thankYou="Your message has been sent.";
   </div>
 
   <div class="parallax-container valign-wrapper">
-    <div class="section no-pad-bot">
+    <div id="two" class="section no-pad-bot scrollspy">
       <div class="container">
         <div class="row center">
           <h2 class="header col s12 light">So what are flower essences?</h2>      
@@ -138,16 +140,16 @@ $thankYou="Your message has been sent.";
   <div class="container">
     <div class="row">
       <div class="col s12">
-        <h5>Dr. Edward Bach was a British Physician, who began to see disease as an end product, a final stage, a physical manifestation of unhappiness, fear and worry. He therefore, began to look to nature to find healing flowers. Over a period of years Dr. Bach found 38 healing flowers and plants that with the right preparation became the 38 Bach Flower Remedies. These remedies are enough to remove all negative emotional problems.</h5>
-        <h5>The Bach Flower Remedies is a safe and natural method of healing. They gently restore the balance between mind and body by casting out negative emotions such as fear, worry, hatred and indecision which interfere with the equilibrium of the being as a whole. The Bach Flower Remedies allow peace and happiness to return to the sufferer so that the body is free to heal itself.</h5>
-        <h5>The Bach Flower Remedies are made 100% naturally from spring water infused with wild flowers, either by the sun-steeped method or by boiling. The Remedies are hand produced exclusively in England. The Remedies contain 27% grape based brandy as a preservative. Or the alcohol free versions are preserved in glycerin made from sunflowers.
-        </h5>
+        <p>Dr. Edward Bach was a British Physician, who began to see disease as an end product, a final stage, a physical manifestation of unhappiness, fear and worry. He therefore, began to look to nature to find healing flowers. Over a period of years Dr. Bach found 38 healing flowers and plants that with the right preparation became the 38 Bach Flower Remedies. These remedies are enough to remove all negative emotional problems.</p>
+        <p>The Bach Flower Remedies is a safe and natural method of healing. They gently restore the balance between mind and body by casting out negative emotions such as fear, worry, hatred and indecision which interfere with the equilibrium of the being as a whole. The Bach Flower Remedies allow peace and happiness to return to the sufferer so that the body is free to heal itself.</p>
+        <p>The Bach Flower Remedies are made 100% naturally from spring water infused with wild flowers, either by the sun-steeped method or by boiling. The Remedies are hand produced exclusively in England. The Remedies contain 27% grape based brandy as a preservative. Or the alcohol free versions are preserved in glycerin made from sunflowers.
+</p>
       </div>
     </div>
   </div>
   <div class="parallax-container valign-wrapper">
     <div class="section no-pad-bot">
-      <div class="container">
+      <div id="three" class="container scrollspy">
         <div class="row center">
           <h2 class="header col s12 light">The 7 Bach Flower Groups &amp; Corellating Chakras</h2>      
         </div>      
@@ -155,35 +157,47 @@ $thankYou="Your message has been sent.";
     </div>
     <div class="parallax"><img src="bridge-pixel.gif" alt="bridge garden"></div>
   </div>
+  <div class="row">
+    <div class="col s12">
+      <ul class="chakra-menu">
+        <li><a href="#crown" class="purple-text">sahasrara</a></li>
+        <li><a href="#thirdeye" class="indigo-text">ajna</a></li>
+        <li><a href="#throat" class="blue-text">visudha</a></li>
+        <li><a href="#heart" class="green-text">anahata</a></li>
+        <li><a href="#solarplexus" class="yellow-text text-darken-3">manipura</a></li>
+        <li><a href="#sacral" class="orange-text text-darken-2">svadhistana</a></li>
+        <li><a href="#root" class="red-text text-darken-2">muladhara</a></li>
+      </ul>
+
   <div class="container">
     <div class="row">
       <div class="col s12">
-        <h5 class="indigo-text text-lighten-1">Insufficient interest in present circumstances - <i>7) The Crown Chakra</i> - it’s associated with the universal, connection with spirituality, consciousness.</h5>
-        <p><strong class="indigo-text text-lighten-1">Clematis:</strong> For those who find their lives unhappy and withdraw into fantasy worlds. They are ungrounded and indifferent to the details of everyday life. Teaches one to establish a bridge between the physical world and the world of ideas and may foster great creativity. Is also used to bring clarity and alertness to the present moment.</p>
-        <p><strong class="indigo-text text-lighten-1">Honeysuckle:</strong> Helps you to let go of past experiences or events. Your thoughts are in the past rather in the present.</p>
-        <p><strong class="indigo-text text-lighten-1">Wild Rose:</strong> Helps you to take responsibility for your own life and take a lively interest in life, work and the world in general.</p>
-        <p><strong class="indigo-text text-lighten-1">Olive:</strong> Helps you regain energy, vitality and interest in life.</p>
-        <p><strong class="indigo-text text-lighten-1">White Chestnut:</strong> Helps when your mind is cluttered with thoughts usually arguments, ideas, thoughts which you do not wish to have in your mind.</p>
-        <p><strong class="indigo-text text-lighten-1">Mustard:</strong> Helps when you feel suddenly depressed without any reason. It feels like a cold dark cloud that destroys normal happiness and cheerfulness.</p>
-        <p><strong class="indigo-text text-lighten-1">Chestnut Bud:</strong> Helps when you from making the same mistake over and over again. You do not take full advantage of observation and experiences and therefore it takes longer for you to learn a lesson.</p>
+        <h5 id="crown" class="purple-text scrollspy"> <div class="sahasrara"></div>Insufficient interest in present circumstances - <i>7) Sahasrara The Crown Chakra</i> - it’s associated with the universal, connection with spirituality, consciousness.</h5>
+        <p><strong class="purple-text">Clematis:</strong> For those who find their lives unhappy and withdraw into fantasy worlds. They are ungrounded and indifferent to the details of everyday life. Teaches one to establish a bridge between the physical world and the world of ideas and may foster great creativity. Is also used to bring clarity and alertness to the present moment.</p>
+        <p><strong class="purple-text">Honeysuckle:</strong> Helps you to let go of past experiences or events. Your thoughts are in the past rather in the present.</p>
+        <p><strong class="purple-text">Wild Rose:</strong> Helps you to take responsibility for your own life and take a lively interest in life, work and the world in general.</p>
+        <p><strong class="purple-text">Olive:</strong> Helps you regain energy, vitality and interest in life.</p>
+        <p><strong class="purple-text">White Chestnut:</strong> Helps when your mind is cluttered with thoughts usually arguments, ideas, thoughts which you do not wish to have in your mind.</p>
+        <p><strong class="purple-text">Mustard:</strong> Helps when you feel suddenly depressed without any reason. It feels like a cold dark cloud that destroys normal happiness and cheerfulness.</p>
+        <p><strong class="purple-text">Chestnut Bud:</strong> Helps when you from making the same mistake over and over again. You do not take full advantage of observation and experiences and therefore it takes longer for you to learn a lesson.</p>
       </div>
       <div class="col s12">
         <div class="divider"></div>
       </div>
       <div class="col s12">
-        <h5 class="purple-text">For Those Who Suffer Uncertainty - <i>6) The Third Eye Chakra</i> - it evokes intuition, extrasensory perception, inner wisdom.</h5>
-        <p><strong class="purple-text">Cerato:</strong> Helps trust your own judgment in decision-making. </p>
-        <p><strong class="purple-text">Scleranthus:</strong> Helps when you have a hard time choosing between two things, such as Mexican or Chinese food, you simply can not decide which restaurant to go to.</p>
-        <p><strong class="purple-text">Gentian:</strong> Helps when you get discouraged and depressed when things go wrong or when you are faced with even small delays or difficulty.</p>
-        <p><strong class="purple-text">Gorse:</strong> Helps when you feel great hopelessness, and have given up belief that more can be done.</p>
-        <p><strong class="purple-text">Hornbeam:</strong> Helps when you feel that you do not  have sufficient amount of strength mentally or physically to carry the burden that life has placed on you.</p>
-        <p><strong class="purple-text">Wild Oat:</strong> Helps when you are at a crossroad in life and are uncertain as to which direction to choose.</p>
+        <h5 id="thirdeye" class="indigo-text text-lighten-1  scrollspy"><div class="ajna"></div>For Those Who Suffer Uncertainty - <i>6) Ajna The Third Eye Chakra</i> - it evokes intuition, extrasensory perception, inner wisdom.</h5>
+        <p><strong class="indigo-text text-lighten-1">Cerato:</strong> Helps trust your own judgment in decision-making. </p>
+        <p><strong class="indigo-text text-lighten-1">Scleranthus:</strong> Helps when you have a hard time choosing between two things, such as Mexican or Chinese food, you simply can not decide which restaurant to go to.</p>
+        <p><strong class="indigo-text text-lighten-1">Gentian:</strong> Helps when you get discouraged and depressed when things go wrong or when you are faced with even small delays or difficulty.</p>
+        <p><strong class="indigo-text text-lighten-1">Gorse:</strong> Helps when you feel great hopelessness, and have given up belief that more can be done.</p>
+        <p><strong class="indigo-text text-lighten-1">Hornbeam:</strong> Helps when you feel that you do not  have sufficient amount of strength mentally or physically to carry the burden that life has placed on you.</p>
+        <p><strong class="indigo-text text-lighten-1">Wild Oat:</strong> Helps when you are at a crossroad in life and are uncertain as to which direction to choose.</p>
       </div>
       <div class="col s12">
         <div class="divider"></div>
       </div>
       <div class="col s12">
-        <h5 class="blue-text">Over-care for welfare of others - <i>5) The Throat Chakra</i> - it symbolizes self expression, expression of truth, creative expression, communication, perfect form and patterns.</h5>
+        <h5 id="throat" class="blue-text scrollspy"><div class="visudha"></div>Over-care for welfare of others - <i>5) Visudha The Throat Chakra</i> - it symbolizes self expression, expression of truth, creative expression, communication, perfect form and patterns.</h5>
         <p><strong class="blue-text">Chicory:</strong> Helps you to be less critical, opinionated and argumentative. You always find something about others that you believe should be put right.</p>
         <p><strong class="blue-text">Vervain:</strong> For strong-willed people who hold strong views. They put unnecessary effort into everything they undertake, your mind race ahead of events, you may suffer from lack of sleep due to an overactive mind.</p>
         <p><strong class="blue-text">Vine:</strong> Helps you respect other people’s views and ideas, you tend to try to persuade other people to do things your way.</p>
@@ -194,7 +208,7 @@ $thankYou="Your message has been sent.";
         <div class="divider"></div>
       </div>
       <div class="col s12">
-        <h5 class="green-text">Loneliness - <i>4) The Heart Chakra</i> - it is connected with love, relating, integration, compassion.</h5>
+        <h5 id="heart" class="green-text scrollspy"><div class="anahata"></div>Loneliness - <i>4) Anahata The Heart Chakra</i> - it is connected with love, relating, integration, compassion.</h5>
         <p><strong class="green-text">Water Violet:</strong> Helps you get a warmer relationship with other people. You love being alone, but often find yourself lonely.</p>
         <p><strong class="green-text">Impatiens:</strong> For those who act and think quickly, and have no patience for what they see as the slowness of others. They often prefer to work alone. Teaches empathy and understanding of and patience with others. It is found to be fast-acting in alleviating an impatient attitude and lowering stress.</p>
         <p><strong class="green-text">Heather:</strong> Helps when you are unhappy being alone for any length of time, you are always seeking the companionship and find it necessary to discuss your affairs with others, no matter who it may be.</p>
@@ -203,7 +217,7 @@ $thankYou="Your message has been sent.";
         <div class="divider"></div>
       </div> 
       <div class="col s12">
-        <h5 class="yellow-text text-darken-3">Despondency or despair - <i>3) The Solar Plexus Chakra</i> - it symbolizes mental activities, intellect, personal power, will.</h5>
+        <h5 id="solarplexus" class="yellow-text text-darken-3 scrollspy"><div class="manipura"></div>Despondency or despair - <i>3) Manipura The Solar Plexus Chakra</i> - it symbolizes mental activities, intellect, personal power, will.</h5>
         <p><strong class="yellow-text text-darken-3">Larch:</strong> Helps you to regain self-esteem and confidence in yourself.</p>
         <p><strong class="yellow-text text-darken-3">Pine:</strong> Helps when you feel guilt and self-reproach, often for other people’s mistakes or just anything that goes wrong. You are never content with your effort and results.</p>
         <p><strong class="yellow-text text-darken-3">Elm:</strong> Helps when your responsibilities overwhelm you. You feel depressed and exhausted and may lose self-esteem.</p>
@@ -217,7 +231,7 @@ $thankYou="Your message has been sent.";
         <div class="divider"></div>
       </div>
       <div class="col s12">
-        <h5 class="orange-text text-darken-4">Over-sensitivity to influences and ideas - <i>2) The Sacral Chakra</i> - it carries meanings associated with emotions, creativity, sexuality, and is associated with water, flow.</h5>
+        <h5 id="sacral" class="orange-text text-darken-4 scrollspy"><div class="svadhistana"></div>Over-sensitivity to influences and ideas - <i>2) Svadhistana The Sacral Chakra</i> - it carries meanings associated with emotions, creativity, sexuality, and is associated with water, flow.</h5>
         <p><strong class="orange-text text-darken-4">Agrimony:</strong> Helps you to communicate your real feelings and worries. You are the cheerful, humorous type that gets distressed by argument or quarrel. You often hide your feelings behind humor and you use alcohol or drugs in excess to stimulate yourself.</p>
         <p><strong class="orange-text text-darken-4">Centaury:</strong> Helps when you find it hard to say no, and therefore easily get imposed on. You often find yourself serving others, neglecting your own particulate mission in life.</p>
         <p><strong class="orange-text text-darken-4">Walnut:</strong> Helps you break free from old ties and at times of major life changes. It helps you move forward and make necessary changes in order to be happy. Walnut gives consistency and protection from outside influences.</p>
@@ -227,7 +241,7 @@ $thankYou="Your message has been sent.";
         <div class="divider"></div>
       </div>
       <div class="col s12">
-        <h5 class="red-text text-darken-2">For Those Who Have Fear - <i>1) The Root Chakra</i> - it symbolizes safety, survival, grounding, nourishment from the Earth energy. </h5>
+        <h5 id="root" class="red-text text-darken-2 scrollspy"><div class="muladhara"></div>For Those Who Have Fear - <i>1) Muladhara The Root Chakra</i> - it symbolizes safety, survival, grounding, nourishment from the Earth energy. </h5>
         <p><strong class="red-text text-darken-2">Rock Rose:</strong> Helps when you experience fears, such as terror or fright that makes you feel frozen and unable to move or think clear. </p>
         <p><strong class="red-text text-darken-2">Mimulus:</strong> Helps when you feel fear, the type of fear that you can put a name on such as fear of dogs, spiders, being alone, losing a job, illness etc. Also, fear of speaking freely of it to others or shyness. </p>
         <p><strong class="red-text text-darken-2">Cherry Plum:</strong> For those who fear losing control of their thoughts and actions and doing things they know are bad for them or which they consider wrong. Teaches trust in one’s spontaneous wisdom and the courage to follow one’s path.</p>
@@ -236,8 +250,10 @@ $thankYou="Your message has been sent.";
       </div>
     </div>
   </div>
+  </div>
+</div>
   <div class="container">
-    <div id="two" class="section">
+    <div id="contact" class="section scrollspy">
 
       <div class="row">
         <div class="col s12 center">
@@ -329,6 +345,10 @@ $thankYou="Your message has been sent.";
   <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
   <script src="js/materialize.js"></script>
   <script src="js/init.js"></script>
-  
+  <script>
+    $(document).ready(function(){
+      $('.scrollspy').scrollSpy();
+    });
+  </script>
   </body>
 </html>
