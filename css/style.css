@@ -9,7 +9,7 @@
  
  
 html {
-  font-family: 'Abel', sans-serif;
+  font-family: 'Comfortaa', cursive;
   background: #EEE9E2;
 }
 h1 {
@@ -71,10 +71,10 @@ p {
   text-shadow: none;
 }
 .brand-logo {
-  background: url('../logo.jpg') no-repeat;
-  width: 136px;
+  background: url('../logo.png') no-repeat;
+  width: 160px;
   height: 60px;
-  margin-top: 2px;
+  margin-top: 4px;
   background-size: contain;
 }
 .sahasrara, .ajna, .visudha, .anahata, .manipura, .svadhistana, .muladhara {
@@ -148,6 +148,11 @@ i.big {
   #index-banner .section {
     top: 0;
   }
+  .sahasrara, .ajna, .visudha, .anahata, .manipura, .svadhistana, .muladhara {
+    width: 150px;
+    height: 135px;
+  }
+
 }
 
 .icon-block {

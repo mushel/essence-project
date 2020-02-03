@@ -26,14 +26,14 @@ $thankYou="Your message has been sent.";
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 
-  <link href="https://fonts.googleapis.com/css?family=Abel|Fredoka+Project Infolay=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Comfortaa|Fredoka+Project Infolay=swap" rel="stylesheet">
   
 
 </head>
 <body>
   <nav class="white" role="navigation">
     <div class="nav-wrapper container">
-      <a id="logo-container" href="#" class="brand-logo">LOGO</a>
+      <a id="logo-container" href="#" class="brand-logo"></a>
       <ul class="right hide-on-med-and-down">
         <li><a href="#one">Project Info</a></li>
         <li><a href="#two">Flower Essences</a></li>
@@ -71,10 +71,10 @@ $thankYou="Your message has been sent.";
   <div class="container">
     <div id="one" class="section scrollspy">
       <div class="row">
-        <div class="col offset-s2 s8">
+        <div class="col offset-m2 m8 s12">
           <p>This is normally a day party for a festival with a positive message. Think Lightning in a Bottle, High Sierra, Envision, and Sonic Bloom. It would last about 3 to 4 hours. I would be travelling with a yoga instructor or get paired with one at a festival. </p> 
         </div>
-        <div class="col offset-s2 s8">
+        <div class="col offset-m2 m8 s12">
           <div class="divider"></div>
           <p>We would do a format of yoga then dance with instructional pauses to discuss the flower essences, chakras, and how they connect. There will 7 podiums with corellating flower essence and chakra/spa. These podiums will have some vocabulary and explanations of what they can modify or assist with. Would like to pair with Flora Arcana Flower Essences & Maya Smith or another rad Yogi.</p>
 
