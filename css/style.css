@@ -11,6 +11,7 @@
 html {
   font-family: 'Comfortaa', cursive;
   background: #EEE9E2;
+  color: #424868;
 }
 h1 {
   font-size: 3rem;
@@ -72,8 +73,8 @@ p {
 }
 .brand-logo {
   background: url('../logo.png') no-repeat;
-  width: 160px;
-  height: 60px;
+  width: 170px;
+  height: 84px;
   margin-top: 4px;
   background-size: contain;
 }
@@ -120,6 +121,12 @@ i.big {
   margin-right: -1.5rem !important;
   margin-left: -1.5rem !important;
 }
+@media only screen and (min-width: 601px) {
+  nav, nav .nav-wrapper i, nav a.sidenav-trigger, nav a.sidenav-trigger i {
+    height: 88px;
+    line-height: 88px;
+  }
+}
 
 @media only screen and (max-width : 992px) {
   .parallax-container .section {
@@ -130,8 +137,12 @@ i.big {
     top: 10%;
   }
   .brand-logo {
-    height: 52px;
+    height: 64px;
     margin-top: 1px;
+  }
+  nav, nav .nav-wrapper i, nav a.sidenav-trigger, nav a.sidenav-trigger i {
+    height: 66px;
+    line-height: 66px;
   }
   h1 {
     font-size: 1.8rem;
@@ -152,7 +163,6 @@ i.big {
     width: 150px;
     height: 135px;
   }
-
 }
 
 .icon-block {
